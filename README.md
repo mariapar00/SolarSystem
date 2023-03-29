@@ -2,6 +2,9 @@
 
 This OpenGL project implements the Sun-Earth-Moon model, using transformations and the Phong model of lighting.
 
+
+![Screenshot](https://user-images.githubusercontent.com/61454029/228631118-074b3635-cf25-4831-adf6-ff773c55724f.png)
+
 ## Run
 
 You will need:
