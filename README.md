@@ -15,5 +15,3 @@ You will need:
 - Zoom in with `W` and out with `S`
 - Pause all movement with `Space`
 
-
-![alt text](https://github.com/mariapar00/SolarSystem/Screenshot.png)
